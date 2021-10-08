@@ -19,12 +19,8 @@
         "home": "https://npm.taobao.org",
         "registry": "https://registry.npm.taobao.org/"
     },
-    "nj": {
-        "home": "https://www.nodejitsu.com",
-        "registry": "https://registry.nodejitsu.com/"
-    },
-    "npmMirror": {
-        "home": "https://skimdb.npmjs.com/",
-        "registry": "https://skimdb.npmjs.com/registry/"
+    "yunzhijia": {
+        "home": "http://npm.yzjop.com/",
+        "registry": "http://npm.yzjop.com/"
     }
 }
